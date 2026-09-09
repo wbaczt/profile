@@ -2,241 +2,184 @@
 
 # 王苏祁 | Suqi Wang
 
-Undergraduate student in Robotics Engineering at Southern University of Science and Technology (SUSTech), with interests in reconfigurable mechanisms, origami mechanisms, compliant structures, robotic sensing, and bio-inspired flying robots. I value a complete research process from theoretical modeling, structural design, and simulation to prototype experiments.
-
-## Table of Contents
-
-- [About Me](#about-me)
-- [CV & Contact](#cv--contact)
-- [Selected Projects](#selected-projects)
-- [Project Details](#project-details)
-- [Publications & Patents](#publications--patents)
-- [Others](#others)
-  - [Awards](#awards)
-  - [Activities](#activities)
-
-## About Me
+Undergraduate student in Robotics Engineering at Southern University of Science and Technology (SUSTech), interested in reconfigurable and origami mechanisms, compliant structures, robotic sensing, and bio-inspired flying robots. I value the complete research process from problem definition, theoretical modeling, and structural design to simulation, prototyping, and experimental validation.
 
 <p align="center">
   <img src="assets/profile/portrait.jpg" width="180" alt="Portrait of Suqi Wang">
 </p>
 
-I began studying Robotics Engineering at Southern University of Science and Technology (SUSTech) in September 2023, with a minor in Finance, and expect to graduate in June 2027. My academic advisor is Academician Jian S. Dai. My interests include reconfigurable and origami mechanisms, compliant structures, robotic sensing, and bio-inspired flapping-wing vehicles. I hope to combine mechanism design, compliant structures, and robotic sensing, with theory, simulation, prototypes, and experiments providing mutual validation for research on perceptive and reconfigurable robotic systems.
+## Table of Contents
+
+- [About Me](#about-me)
+- [Education](#education)
+- [Research Interests & Skills](#research-interests--skills)
+- [Selected Projects](#selected-projects)
+- [Project Details](#project-details)
+- [Publication & Patents](#publication--patents)
+- [Awards & Activities](#awards--activities)
+- [Contact](#contact)
+
+## About Me
+
+I began studying Robotics Engineering at Southern University of Science and Technology (SUSTech) in 2023, with a minor in Finance, and expect to graduate in 2027. My academic advisor is Academician Jian S. Dai. My work mainly concerns reconfigurable mechanisms, compliant structures, and robotic sensing, with additional experience in bio-inspired flapping-wing vehicles, wearable sensing, and robots for confined environments. I aim to develop robotic systems with shape adaptability, reliable interaction, and environmental perception through mutual validation among theory, simulation, prototypes, and experiments.
 
 - **GPA:** 3.88/4.00
 - **Weighted Average:** 92.81/100
 - **Major Rank:** 8/90
 - **TOEFL:** 99
-- **CET-6:** 579
+- **CET-6:** 616
 
-## CV & Contact
+## Education
 
-- **University and Major:** Southern University of Science and Technology (SUSTech), Robotics Engineering, Department of Mechanical and Energy Engineering
-- **Minor:** Finance, School of Business
-- **Academic Advisor:** Academician Jian S. Dai
-- **Research Interests:** reconfigurable and origami mechanisms, compliant structures, robotic sensing, and bio-inspired flapping-wing vehicles
-- **Mechanism Design and Modeling:** SolidWorks, AutoCAD
-- **Mechanical Simulation and Experiments:** Abaqus, prototyping, mechanical testing, and experimental data processing
-- **Programming and Robotics Development:** Python, MATLAB, C++, Linux, ROS 2, Git
-- **University Email:** [12312116@mail.sustech.edu.cn](mailto:12312116@mail.sustech.edu.cn)
-- **GitHub:** [wbaczt](https://github.com/wbaczt)
-- **Chinese CV:** [TODO: Add a public version with the phone number, date of birth, and political affiliation removed]
-- **English CV:** [TODO: Add the English CV]
+### Southern University of Science and Technology (SUSTech)
+
+**B.Eng. candidate in Robotics Engineering; Minor in Finance | September 2023 - June 2027 (expected)**
+
+- Robotics Engineering in the Department of Mechanical and Energy Engineering; Finance minor in the School of Business.
+- Academic advisor: Academician Jian S. Dai.
+- Relevant coursework includes Advanced Mechanisms, Theory of Machines and Mechanisms, Mechanics of Materials, Robot Modeling and Control, Robot Operating Systems, Signals and Systems, Fundamentals of Machine Learning for Engineering, and Computer Vision.
+
+### National University of Singapore
+
+**Summer exchange, School of Computing | May 2024 - July 2024**
+
+- Supervisor: Hon Wai Leong.
+- Course grade: A.
+
+## Research Interests & Skills
+
+- **Research Interests:** reconfigurable and origami mechanisms, compliant structures, robotic sensing, and bio-inspired flapping-wing vehicles.
+- **Mechanism Design and Modeling:** SolidWorks, AutoCAD, mechanism synthesis, kinematic modeling, and workspace analysis.
+- **Simulation and Experiments:** Abaqus, structural simulation, prototyping, mechanical testing, and experimental data processing.
+- **Programming and Robotics Development:** Python, MATLAB, C++, Linux, ROS 2, and Git.
+- **Research Methods:** literature review, theoretical analysis, rapid prototyping, system integration, experiment design, and academic writing.
 
 ## Selected Projects
 
-| Project | Main Focus | Role | Status |
+| Project | Type and Focus | Role | Stage |
 |---|---|---|---|
-| MAP Hand - Actuation-and-Sensing Integrated Rigid-Flexible Reconfigurable Gripper | Reconfigurable mechanisms, compliant structures, visuotactile sensing | Project lead | Ongoing |
-| Wearable Multi-IMU System for Skiing Posture Monitoring and Feedback | Wearable sensing, posture analysis, human feedback | Second author; system and experimental research | Paper accepted |
-| Flutterfly - Bio-inspired Butterfly Robot | Bio-inspired flapping wings, lightweight structures, system integration | Project lead | Completed |
-| Underground Pipeline Inspection UAV | Foldable collision protection, rapid prototyping, system integration | Structural design and fabrication | Competition project |
+| MAP Hand - Actuation-and-Sensing Integrated Rigid-Flexible Reconfigurable Gripper | Research; reconfigurable mechanisms, compliant fingers, visuotactile sensing | Lead of a National Undergraduate Innovation Training Program project | Ongoing |
+| Wearable Multi-IMU System for Skiing Posture Monitoring and Feedback | Research; wearable sensing, motion analysis | Third author; system, experiment, and data-analysis contributor | Paper published and orally presented |
+| Flutterfly - Bio-inspired Butterfly Robot | Competition; flapping-wing flight, lightweight design | Project lead | Completed |
+| MorphEye Reconfigurable Airship | Collaborative project; reconfigurable aircraft, long-endurance observation | Business model and architecture design | Prototype and concept iteration |
+| Underground Pipeline Inspection UAV | Competition; confined-space inspection, modular protection | Collision frame and modular enclosure design and fabrication | Competition-stage validation completed |
+| Inertia-Driven Car | Course engineering project; mechanical design and fabrication | Baseplate design and fabrication; straight-line adjustment | Course project completed |
+| Magnetically Triggered Bistable Kirigami Micro-Scaffold | Course concept project; microrobotics, bistable kirigami | Team member; concept development and presentation | Concept only; no prototype or experiment |
 
 ## Project Details
 
 ### MAP Hand - Actuation-and-Sensing Integrated Rigid-Flexible Reconfigurable Gripper
 
-**Period:** November 2025-present  
-**Role:** Project lead  
-**Status:** Ongoing
+**Period:** November 2024-present　**Role:** Lead of a National Undergraduate Innovation Training Program project
 
-<!--
-Recommended future assets:
-Cover image: assets/projects/map-hand/cover.jpg
-Demo GIF: assets/projects/map-hand/demo.gif
--->
+MAP Hand addresses adaptive grasping and active sensing in unstructured environments. It combines an actuation-and-sensing integrated palm with heterogeneous tendon-driven compliant fingers. The palm uses a Sarrus mechanism and integrates hydraulic actuation with 3D visuotactile sensing in one liquid-phase compliant interface. The fingers use asymmetric pre-curved joints with three crossed spring blades and separate pressing and enveloping functions for different grasping tasks.
 
-#### Overview
+My main contributions include:
 
-This project addresses adaptive grasping and active contact sensing in embodied intelligence. It combines a deformable sensing palm with heterogeneous tendon-driven compliant fingers to study palm-finger coordination, adaptive grasping, and active sensing.
+- Completing Sarrus mechanism synthesis, local-to-global kinematic mapping, and workspace analysis for the palm.
+- Designing compliant finger joints, conducting Abaqus structural simulations, and developing finger testing methods.
+- Participating in full-hand assembly, grasping and torque experiments, failure analysis, and structural iteration.
+- Coordinating the project and organizing theory, simulation, and experiments into a continuous validation process.
 
-#### My Contributions
-
-- Completed link-length synthesis, kinematic mapping, and workspace analysis for the Sarrus palm mechanism.
-- Designed an asymmetric pre-curved compliant joint with three crossed spring blades and performed mechanical simulation in Abaqus.
-- Participated in mechanical testing, grasping experiments, and multiple prototype iterations.
-- Coordinated the research and advanced validation of palm-finger coordination and active contact sensing.
-
-#### Methods and Tools
-
-Sarrus mechanism synthesis, kinematic modeling, workspace analysis, compliant structure design, Abaqus finite-element simulation, prototyping, and mechanical testing.
-
-#### Results and Outputs
-
-- Iterated palm and compliant-finger prototypes and conducted mechanical and grasping tests.
-- Produced two related invention patent applications that have been accepted; I am the first student inventor on one application.
-- The related paper is still being prepared; its content and experimental data are not public.
-
-#### Media and Materials
-
-- [TODO: Add a public project cover image]
-- [TODO: Add a 5-10 second demonstration GIF]
-- [TODO: Add a sanitized system overview]
+The project has completed multiple palm and finger prototype iterations, mechanical tests, and full-hand experiments. It was selected as a National Undergraduate Innovation Training Program project and has produced two accepted invention patent applications. A related manuscript is in preparation; unpublished drafts and complete experimental data are not shared here.
 
 ### Wearable Multi-IMU System for Skiing Posture Monitoring and Feedback
 
-**Period:** May 2026-present  
-**Role:** Second author; contributed to system design, experiment design, data analysis, and manuscript revision  
-**Status:** Paper accepted for an oral presentation at IEEE ICMA 2026
+**Period:** May 2026-August 2026　**Role:** Third author
 
-<!--
-Recommended future assets:
-Cover image: assets/projects/skiing-imu/cover.jpg
-Demo GIF: assets/projects/skiing-imu/demo.gif
--->
+This project developed a five-node wearable IMU system mounted on both boot cuffs, both thighs, and the chest. The nodes send data to a gateway through ESP-NOW and support real-time desktop and mobile visualization. Interpretable measures for lower-limb alignment, backseat tendency, and reference-motion curves help identify A-frame, backseat, and upper-lower body coordination differences.
 
-#### Overview
+My main contributions include:
 
-This project addresses real-time posture monitoring and feedback in ski training. It uses five wearable IMU nodes with desktop and mobile visualization to identify typical posture problems such as A-frame and back-seat skiing.
+- Participating in the system design and validation experiment design.
+- Contributing to controlled-angle, static-posture, and indoor skiing experiments.
+- Contributing to experimental data analysis, metric organization, and manuscript revision.
 
-#### My Contributions
-
-- Participated in the design of the wearable acquisition system and validation experiments.
-- Contributed to controlled angle-accuracy, static-posture, and indoor skiing experiments.
-- Participated in data analysis and developed interpretable measures including lower-limb angle dispersion and fore-aft posture scores.
-- Contributed to manuscript revision and result organization.
-
-#### Methods and Tools
-
-Multi-node IMU acquisition, angle-accuracy tests, static-posture tests, indoor skiing experiments, posture metric design, and experimental data analysis.
-
-#### Results and Outputs
-
-- Completed controlled angle-accuracy, static-posture, and indoor skiing experiments.
-- The paper was accepted for an oral presentation at IEEE ICMA 2026.
-- [TODO: Confirm the formal author order from the paper first page or acceptance materials.]
-
-#### Media and Materials
-
-- [TODO: Add a public project cover image]
-- [TODO: Add a 5-10 second demonstration GIF]
-- [TODO: Add a sanitized system overview]
+Controlled-angle validation achieved an average MAE of 0.6767° and RMSE of 0.8119°. The paper was published in the IEEE ICMA 2026 proceedings and presented orally in August 2026.
 
 ### Flutterfly - Bio-inspired Butterfly Robot
 
-**Period:** October 2025-May 2026  
-**Role:** Project lead  
-**Status:** Completed
+**Period:** October 2025-May 2026　**Role:** Project lead
 
-<!--
-Recommended future assets:
-Cover image: assets/projects/flutterfly/cover.jpg
-Demo GIF: assets/projects/flutterfly/takeoff.gif
--->
+Flutterfly is a miniature flapping-wing robot developed for lightweight and maneuverable flight. Its carbon-fiber frame and flexible wing membrane were designed with reference to the aspect ratio of real butterfly wings. Actively driven forewings and passively compliant hindwings create a phase difference intended to improve flight stability.
 
-#### Overview
+My main contributions include:
 
-This project addresses lightweight construction and maneuverability for miniature bio-inspired aircraft. It uses actively driven forewings and passively compliant hindwings, aiming to achieve stable, lightweight takeoff through coordinated structural and system design.
+- Leading structural design, fabrication, assembly, component integration, and flight testing.
+- Optimizing wing-vein stiffness distribution, compliant connections, and membrane deformation.
+- Resolving resource conflicts among the controller, receiver, and actuators.
+- Advancing three prototype iterations with multi-channel control of frequency, amplitude, and yaw.
 
-#### My Contributions
+The final prototype weighed approximately 15 g and achieved static takeoff. The project received First Prize in Guangdong Province and Third Prize nationally in the 12th National Undergraduate Mechanical Innovation Design Competition.
 
-- Led flapping-wing structural design, fabrication, assembly, and flight testing.
-- Optimized wing-vein stiffness gradients and membrane deformation.
-- Participated in component selection and integration, interface configuration, and joint testing of the controller, receiver, and actuators.
-- Completed three prototype iterations and takeoff tests.
+### MorphEye Reconfigurable Airship
 
-#### Methods and Tools
+**Role:** Business model and architecture design
 
-Bio-inspired flapping-wing design, passive compliant structures, rapid prototyping, fabrication and assembly, mechatronic integration, and flight testing.
+MorphEye explores an aerial platform that switches between cruise and hovering configurations to combine rapid transit, long-duration observation, and sensing tasks. Project materials propose a reconfigurable mechanism, vectored propulsion, buoyancy assistance, and modular payload interfaces. The project remains in prototype and concept iteration.
 
-#### Results and Outputs
-
-- Completed three prototype iterations and achieved lightweight static takeoff.
-- Received First Prize in Guangdong Province and Third Prize nationally in the National Undergraduate Mechanical Innovation Design Competition.
-
-#### Media and Materials
-
-- [TODO: Add a public project cover image]
-- [TODO: Add a 5-10 second takeoff GIF]
-- [TODO: Add a sanitized system overview]
+I contributed to business model and system architecture design, including application scenarios, product positioning, and organization of the technical roadmap. The related invention patent application titled “Reconfigurable Aerial Vehicle” has been accepted. Forecast performance, market size, and revenue figures in pitch materials are not presented as achieved results in this portfolio.
 
 ### Underground Pipeline Inspection UAV
 
-**Period:** [TODO: Confirm the project period]  
-**Role:** Design and fabrication of the collision-protection frame and modular enclosure  
-**Status:** Competition project
+**Role:** Collision-protection frame and modular enclosure design and fabrication
 
-<!--
-Recommended future assets:
-Cover image: assets/projects/pipeline-uav/cover.jpg
-Demo GIF: assets/projects/pipeline-uav/demo.gif
--->
+This project explores a pipeline inspection system combining a UAV, relay communication, and assisted defect detection for narrow, low-light, and communication-limited underground environments. I designed and fabricated the collision-protection frame and modular enclosure, applied rigid-origami concepts to make the protective structure foldable, and participated in multiple prototype iterations and field validation.
 
-#### Overview
+The project placed first and received the Platinum Award at the 5th Shokz Cup Global Outstanding Innovation Talent Summer Camp, and received Third Prize in the 4th SUSTech Wutong Tree Campus Entrepreneurship Star Competition. This portfolio records my structural work and completed validation only; commercial forecasts are not treated as achieved results.
 
-This project develops a UAV platform with foldable collision protection and a modular enclosure for inspections in confined underground pipelines. It focuses on structural protection, rapid prototyping, and system integration in confined spaces.
+### Inertia-Driven Car
 
-#### My Contributions
+**Type:** Course engineering project　**Role:** Baseplate design and fabrication; straight-line adjustment
 
-- Designed and fabricated the collision-protection frame and modular enclosure.
-- Applied rigid-origami concepts to make the protective structure foldable for storage.
-- Participated in multiple prototype iterations and field validation.
+This project examined energy use, straight-line motion, and low-friction design for a car released on a slope. The team designed the base, bearing mounts, axles, wheels, and enclosure, and considered how wheelbase, track width, center-of-mass position, and the transition at the bottom of the slope affect motion.
 
-#### Methods and Tools
+I contributed to baseplate design and modeling, fabricated the acrylic baseplate by laser cutting, and adjusted the car for straight-line travel. The project connected structural parameters and manufacturing errors with assembly quality and motion performance.
 
-Rigid origami, structural design, rapid prototyping, modular design, prototype iteration, and field validation.
+### Magnetically Triggered Bistable Kirigami Micro-Scaffold for Temporary Support in Confined Soft Lumens
 
-#### Results and Outputs
+**Period:** 2026　**Type:** Microrobotics course concept project　**Role:** Team member
 
-- Completed multiple prototype iterations and field validation.
-- Placed first and received the Platinum Award at the 5th Shokz Cup Global Outstanding Innovation Talent Summer Camp.
-- Received Third Prize in the 4th SUSTech Wutong Tree Campus Entrepreneurship Star Competition.
+This course project proposed a magnetically triggered bistable kirigami micro-scaffold for temporary support in confined soft lumens. The concept uses bistable kirigami end-rings to switch between compressed and deployed states, longitudinal struts for local support, and magnetic patches for external triggering, separating triggering, locking, and load-bearing functions at the conceptual level.
 
-#### Media and Materials
+My involvement was limited to team concept discussions, proposal development, and the course presentation. No physical prototype, in vitro test, animal study, or clinical experiment was completed, and material compatibility, fatigue, tissue interaction, and delivery performance remain unvalidated. This is a problem-driven mechanical design exercise, not a validated medical device or clinical solution.
 
-- [TODO: Add a public project cover image]
-- [TODO: Add a 5-10 second demonstration GIF]
-- [TODO: Add a sanitized system overview]
+## Publication & Patents
 
-## Publications & Patents
+### Publication
 
-### Publications
-
-- *A Wearable IMU System for Real-Time Skiing Posture Monitoring and Motion Feedback*. IEEE ICMA 2026. Accepted for an oral presentation; **Suqi Wang** is the second author. [TODO: Add the full author list and a complete citation after checking the paper first page or acceptance materials.]
+Zihe Wang<sup>†</sup>, Yuetian Yu<sup>†</sup>, **Suqi Wang**, Tiancheng Liu, and Chengzhi Hu, “A Wearable IMU System for Real-Time Skiing Posture Monitoring and Motion Feedback,” in *Proceedings of the 2026 IEEE International Conference on Mechatronics and Automation (ICMA)*, 2026, pp. 2120-2125. [DOI: 10.1109/ICMA69663.2026.11647580](https://doi.org/10.1109/ICMA69663.2026.11647580). <sup>†</sup>Co-first authors.
 
 ### Patent Applications
 
-The English titles below are unofficial translations.
+The English titles below are descriptive translations.
 
-1. **Compliant Finger Mechanism and Robotic Hand Based on Cross-Spring Units.** Invention patent application, accepted; application no. CN202610866553.8; student inventor rank: 1.
-2. **Robotic Gripper with In-Palm Sensing and Palm-Finger Coordination, and Its Control Method.** Invention patent application, accepted; application no. CN202610767293.9; student inventor rank: 4.
-3. **Reconfigurable Aerial Vehicle.** Invention patent application, accepted; application no. CN202610205766.6; student inventor rank: 4.
-4. **Hydraulic Cylinder and Self-Sensing Method for Cylinder Position.** Invention patent application, accepted; application no. CN202610650997.8; student inventor rank: 4.
+1. **Compliant Finger Mechanism and Robotic Hand Based on Cross-Spring Units**, application no. CN202610866553.8, published and under substantive examination; second inventor and first student inventor.
+2. **Robotic Gripper with In-Palm Sensing and Palm-Finger Coordination, and Its Control Method**, application no. CN202610767293.9, invention patent application accepted; student inventor rank: 4.
+3. **Reconfigurable Aerial Vehicle**, application no. CN202610205766.6, invention patent application accepted; student inventor rank: 4.
+4. **Hydraulic Cylinder and Self-Sensing Method for Cylinder Position**, application no. CN202610650997.8, invention patent application accepted; student inventor rank: 4.
 
-## Others
+## Awards & Activities
 
-### Awards
+### Selected Awards
 
-- **May 2026:** First Prize in Guangdong Province and Third Prize nationally, 12th National Undergraduate Mechanical Innovation Design Competition. [TODO: Verify the official English name.]
-- **March 2026:** Excellence Award, SUSTech Final of the 15th Challenge Cup China College Students' Entrepreneurship Plan Competition. [TODO: Verify the official English name.]
-- **December 2025:** Third Prize, 4th SUSTech Wutong Tree Campus Entrepreneurship Star Competition. [TODO: Verify the official English name.]
-- **July 2025:** First Prize in Guangdong Province, 2025 China College Students' Engineering Practice and Innovation Competition, Engineering Maker category. [TODO: Verify the official English name.]
-- **July 2025:** First place and Platinum Award, 5th Shokz Cup Global Outstanding Innovation Talent Summer Camp. [TODO: Verify the official English name.]
-- **2023-2026:** Freshman Presidential Special Scholarship, Second-Class Outstanding Student Scholarship, and other honors. [TODO: Verify the official English names.]
+- **August 2026:** First Prize in Guangdong Province and Third Prize nationally, 7th Akashi Cup Micro-Nano Sensing Technology and Intelligent Application Competition.
+- **May 2026:** First Prize in Guangdong Province and Third Prize nationally, 12th National Undergraduate Mechanical Innovation Design Competition.
+- **March 2026:** Excellence Award, SUSTech Final of the 15th Challenge Cup China College Students' Entrepreneurship Plan Competition.
+- **December 2025:** Third Prize, 4th SUSTech Wutong Tree Campus Entrepreneurship Star Competition.
+- **July 2025:** First Prize in Guangdong Province, 2025 China College Students' Engineering Practice and Innovation Competition, Engineering Maker category.
+- **July 2025:** First place and Platinum Award, 5th Shokz Cup Global Outstanding Innovation Talent Summer Camp.
+- **2023-2026:** Freshman Presidential Special Scholarship, Second-Class Outstanding Student Scholarship, Outstanding Student title, and other honors.
 
 ### Activities
 
 - Served as vice president of the SUSTech Innovation and Intelligent Manufacturing Club.
-- Helped organize teams for engineering practice and mechanical innovation competitions.
-- Coordinated equipment use, project preparation, experience sharing, and team communication.
-- Participated in project outreach and student innovation activities within the department.
+- Helped organize and lead teams for engineering practice and mechanical innovation competitions.
+- Coordinated equipment use, project preparation, experience sharing, and team communication, and participated in student innovation activities within the department.
+
+## Contact
+
+- **University Email:** [12312116@mail.sustech.edu.cn](mailto:12312116@mail.sustech.edu.cn)
+- **GitHub:** [github.com/wbaczt](https://github.com/wbaczt)
+
+To protect personal privacy, this public page does not include my phone number, date of birth, political affiliation, or the original CV containing these details. Please contact me through my university email for a complete CV or further materials.
